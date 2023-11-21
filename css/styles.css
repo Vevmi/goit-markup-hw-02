@@ -65,3 +65,29 @@ body {
         /* 150% */
         letter-spacing: 0.02em;
 }
+
+.hero {
+    background-color: #2e2f42;
+
+}
+.main-header {
+    color: #FFFFFF;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+}
+.hero-button {
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
+}
