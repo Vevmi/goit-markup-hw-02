@@ -196,8 +196,8 @@ footer {
         cursor: pointer;
         font-family: "Roboto", sans-serif;
 }
-.sect-one-blue-but:hover,
-.sect-one-blue-but:focus {
+.sect-one-but:hover,
+.sect-one-but:focus {
     color: #FFFFFF;
     background-color: #404BBF;
 }
