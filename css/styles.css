@@ -47,16 +47,21 @@ body {
     color: #404bbf;
 }
 .contacts {
-    color: var(--primary-text-color);
+        font-style: normal;
+}
+
+.contacts-item:hover,
+.contacts-item:focus {
+    color: #404bbf;
+}
+
+.contacts-item {
+    color: #434455;
         font-family: Roboto;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 1.5;
-        letter-spacing: 0,02em;
-}
-
-.contacts:hover,
-.contacts:focus {
-    color: #404bbf;
+        /* 150% */
+        letter-spacing: 0.02em;
 }
