@@ -184,7 +184,7 @@ footer {
         letter-spacing: 0.02em;
 }
 
-.sect-one-blue-but {
+.sect-one-but {
     color: #4d5ae5;
     background-color: #F4F4FD;
         text-align: center;
@@ -194,6 +194,7 @@ footer {
         line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
+        font-family: "Roboto", sans-serif;
 }
 .sect-one-blue-but:hover,
 .sect-one-blue-but:focus {
