@@ -2,4 +2,16 @@
     --primary-bg-color: #2E2F42;
     --primary-text-color: #434455;
 }
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
 
+a {
+    text-decoration: none;
+}
+ol,
+ul {
+    list-style-type: none;
+}
