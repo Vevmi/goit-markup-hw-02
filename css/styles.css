@@ -86,8 +86,30 @@ body {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: #FFFFFF;
     cursor: pointer;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.04em;
 }
 .hero-button:hover,
 .hero-button:focus {
     background-color: #404BBF;
+}
+.sect1 {
+    color:#2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        /* 120% */
+        letter-spacing: 0.02em;
+}
+.sect1-text {
+line-height: 1.5;
+                /* 120% */
+       letter-spacing: 0.02em;
 }
